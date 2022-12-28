@@ -1,4 +1,4 @@
-### Hi there, I'm Kuba 👋
+## Hi there, I'm Kuba 👋
 
 I am 21 years old student of IT technologies (specialization: Front-end) at Wyższa Szkoła Bankowa in Gdańsk, currently working as junior front-end developer for small company Gr8Soft.
 
