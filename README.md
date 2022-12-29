@@ -7,7 +7,7 @@ I am 21 years old student of IT technologies (specialization: Front-end) at Wyż
 - 🌱 I’m currently learning Astro 🚀
 - 👯 I’m looking to collaborate on my new idea to create a clone of jira dashboard
 - 📫 How to reach me: best way is to contact me via e-mail k.hajduk.kh@gmail.com
-- ⚡ __Fun fact: It is said that as one of the 8 species living on Earth (including humans, gorillas, dolphins and - interestingly - magpies), elephants can recognize their reflection!__
+- ⚡ ***Fun fact: It is said that as one of the 8 species living on Earth (including humans, gorillas, dolphins and - interestingly - magpies), elephants can recognize their reflection!***
 
 
 ### My tech-stack
