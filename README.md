@@ -16,8 +16,9 @@ I am 21 years old student of IT technologies (specialization: Front-end) at Wyż
 - Styled components
 - JS/TS
 - React
+- Redux(know the basics but still learning)
 - React-Router
-- Gatsby
+- Gatsby/Astro(currently learning)
 - Axios
 - Formik
 - Yup
