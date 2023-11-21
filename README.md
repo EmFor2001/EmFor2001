@@ -4,7 +4,7 @@ I am 22 years old student of IT technologies (specialization: Front-end) at Wyż
 
 
 - 🔭 I’m currently working on work-related projects
-- 🌱 I’m currently learning Strapi CMS
+- 🌱 I’m currently learning **.NET**
 - 👯 I’m looking to collaborate on my new idea to create an app gathering gas prices from gas stations around
 - 📫 How to reach me: best way is to contact me via e-mail k.hajduk.kh@gmail.com
 - ⚡ ***Fun fact: It is said that as one of the 8 species living on Earth (including humans, gorillas, dolphins and - interestingly - magpies), elephants can recognize their reflection!***
