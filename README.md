@@ -1,5 +1,5 @@
 ## Hi there, I'm Kuba 👋
-### .NET project going live on 24.11.2023!!!
+### .NET project going live on 26.11.2023!!!
 I am 22 years old student of IT technologies (specialization: Front-end) at Wyższa Szkoła Bankowa in Gdańsk, currently working as front-end developer for small company Gr8Soft (since 01.2022).
 
 
