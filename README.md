@@ -1,5 +1,5 @@
 ## Hi there, I'm Kuba 👋
-### .NET project is live!!! Next.JS project going live in a week!!!
+### Next.JS project is live!!! React-Native project going live in a week!!!
 I am 22 years old student of IT technologies (specialization: Front-end) at Wyższa Szkoła Bankowa in Gdańsk, currently working as front-end developer for small company Gr8Soft (since 01.2022).
 
 
