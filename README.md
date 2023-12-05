@@ -3,7 +3,7 @@
 I am 22 years old student of IT technologies (specialization: Front-end) at Wyższa Szkoła Bankowa in Gdańsk, currently working as front-end developer for small company Gr8Soft (since 01.2022).
 
 
-- 🔭 I’m currently working on project for engineering degree
+- 🔭 I’m currently working on project for school and my engineering degree
 - 🌱 I’m currently learning **.NET / Rect-Native**
 - 👯 I’m looking to collaborate on my new idea to create an app gathering gas prices from gas stations around
 - 📫 How to reach me: best way is to contact me via e-mail k.hajduk.kh@gmail.com
