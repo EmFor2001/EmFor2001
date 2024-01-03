@@ -23,3 +23,8 @@ I am 22 years old student of IT technologies (specialization: Front-end) at Wyż
 - Axios
 - Formik
 - Yup
+- Node/Express
+- MongoDB/Postgres
+- NEXT.JS
+- .NET/C#/C++ - basics
+- Python - basics
