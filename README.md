@@ -1,11 +1,10 @@
 ## Hi there, I'm Kuba 👋
 
-I am 24 years old student of IT technologies (specialization: Front-end) at Wyższa Szkoła Bankowa in Gdańsk, currently working as front-end developer for small company Gr8Soft (since 01.2022).
+I am 25 years old student of Computer Science at University WSB Merito in Gdańsk.
 
 
-- 🔭 I’m currently working on project for school and my engineering degree
-- 🌱 I’m currently learning **.NET / Rect-Native**
-- 👯 I’m looking to collaborate on my new idea to create an app gathering gas prices from gas stations around
+- 🔭 I’m currently working on project for school and my master degree
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me: best way is to contact me via e-mail k.hajduk.kh@gmail.com
 - ⚡ ***Fun fact: It is said that as one of the 8 species living on Earth (including humans, gorillas, dolphins and - interestingly - magpies), elephants can recognize their reflection!***
 
@@ -16,15 +15,12 @@ I am 24 years old student of IT technologies (specialization: Front-end) at Wyż
 - Styled components
 - JS/TS
 - React
-- Redux(know the basics but still learning)
+- Redux
 - React-Router
 - Strapi
-- Gatsby/Astro(basics)
 - Axios
 - Formik
 - Yup
 - Node/Express
 - MongoDB/Postgres
 - NEXT.JS
-- .NET/C#/C++ - basics
-- Python - basics
